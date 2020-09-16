@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello
 
 A new Flutter project.
@@ -14,3 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Fluttathon
+1. Search Functionality works only for AB-2.
+2. Screenshots can be viewed in the "Screenshots" Folder.
+>>>>>>> parent of 8a55ceb... Update README.md
