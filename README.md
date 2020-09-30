@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# hello
 
-A new Flutter project.
 
 ## Getting Started
 
